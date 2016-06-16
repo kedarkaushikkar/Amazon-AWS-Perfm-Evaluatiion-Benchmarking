@@ -1,0 +1,196 @@
+OUTPUT
+
+
+
+Seq :For 1 thread with block size 1 Byte , 1Kb , 1MB  - Read Operation
+1 30.921185 0.032340288
+1 4004.790771 0.000249701
+1 5918.098145 0.000168973
+Rand :For 1 thread with block size 1 Byte , 1Kb , 1MB  - Read Operation
+1 1.439286 0.694788814
+1 1812.389404 0.000551758
+1 11248.552734 0.000088900
+Seq :For 1 thread with block size 1 Byte , 1Kb , 1MB  - Write Operation
+1 9.877504 0.101240151
+1 1905.204834 0.000524878
+1 3429.380615 0.000291598
+Rand :For 1 thread with block size 1 Byte , 1Kb , 1MB  - Write Operation
+1 0.592884 1.686671376
+1 643.122681 0.001554913
+1 7468.490234 0.000133896
+Seq :For 2 thread with block size 1 Byte , 1Kb , 1MB  - Read Operation
+2 15.316680 0.065290406
+2 2109.204102 0.000480038
+2 3877.347168 0.000258014
+Rand :For 2 thread with block size 1 Byte , 1Kb , 1MB  - Read Operation
+2 0.736236 1.358264208
+2 952.197266 0.001056308
+2 6561.401367 0.000157526
+Seq :For 2 thread with block size 1 Byte , 1Kb , 1MB  - Write Operation
+2 4.952561 0.201915726
+2 933.130676 0.001072461
+2 2019.665283 0.000499400
+Rand :For 2 thread with block size 1 Byte , 1Kb , 1MB  - Write Operation
+2 0.297969 3.356059313
+2 326.741943 0.003060709
+2 4889.897461 0.000207800
+
+
+
+
+OUTPUT
+
+
+
+Seq :For 1 thread with block size 1 Byte , 1Kb , 1MB  - Read Operation
+1 30.849796 0.032415126
+1 4116.583008 0.000242920
+1 5850.408203 0.000170928
+Rand :For 1 thread with block size 1 Byte , 1Kb , 1MB  - Read Operation
+1 1.461604 0.684179842
+1 1736.733887 0.000575793
+1 11560.925781 0.000086498
+Seq :For 1 thread with block size 1 Byte , 1Kb , 1MB  - Write Operation
+1 9.933911 0.100665286
+1 1970.675659 0.000507440
+1 3468.875488 0.000288278
+Rand :For 1 thread with block size 1 Byte , 1Kb , 1MB  - Write Operation
+1 0.596100 1.677569985
+1 335.508087 0.002980554
+1 7038.604004 0.000142074
+Seq :For 2 thread with block size 1 Byte , 1Kb , 1MB  - Read Operation
+2 15.382000 0.065012634
+2 2445.287598 0.000426523
+2 4024.223877 0.000248975
+Rand :For 2 thread with block size 1 Byte , 1Kb , 1MB  - Read Operation
+2 0.734336 1.361773968
+2 888.452515 0.001127631
+2 3640.755859 0.000274700
+Seq :For 2 thread with block size 1 Byte , 1Kb , 1MB  - Write Operation
+2 4.945911 0.202187508
+2 913.942627 0.001095947
+2 1941.142334 0.000528526
+Rand :For 2 thread with block size 1 Byte , 1Kb , 1MB  - Write Operation
+2 0.297998 3.355727673
+2 325.650421 0.003070862
+2 4669.506836 0.000216249
+
+
+
+
+OUTPUT
+
+
+
+Seq :For 1 thread with block size 1 Byte , 1Kb , 1MB  - Read Operation
+1 30.671648 0.032603398
+1 3982.305176 0.000251111
+1 5929.392578 0.000168651
+Rand :For 1 thread with block size 1 Byte , 1Kb , 1MB  - Read Operation
+1 1.442166 0.693401456
+1 1779.844238 0.000561847
+1 11994.005859 0.000083375
+Seq :For 1 thread with block size 1 Byte , 1Kb , 1MB  - Write Operation
+1 9.876221 0.101253308
+1 1891.742065 0.000528613
+1 3429.100342 0.000291622
+Rand :For 1 thread with block size 1 Byte , 1Kb , 1MB  - Write Operation
+1 0.599654 1.667628288
+1 647.458435 0.001544501
+1 7496.187012 0.000133401
+Seq :For 2 thread with block size 1 Byte , 1Kb , 1MB  - Read Operation
+2 15.236956 0.065629974
+2 2299.323486 0.000435370
+2 3049.180176 0.000332624
+Rand :For 2 thread with block size 1 Byte , 1Kb , 1MB  - Read Operation
+2 0.728829 1.372063875
+2 933.441772 0.001071335
+2 7524.381836 0.000144160
+Seq :For 2 thread with block size 1 Byte , 1Kb , 1MB  - Write Operation
+2 4.920708 0.203222901
+2 1030.239990 0.000975784
+2 2027.425293 0.000503662
+Rand :For 2 thread with block size 1 Byte , 1Kb , 1MB  - Write Operation
+2 0.295227 3.387220144
+2 321.333069 0.003112192
+2 5073.196289 0.000202700
+
+
+
+
+OUTPUT
+
+
+
+Seq :For 1 thread with block size 1 Byte , 1Kb , 1MB  - Read Operation
+1 25.424400 0.039332293
+1 1787.846069 0.000559332
+1 5828.255371 0.000171578
+Rand :For 1 thread with block size 1 Byte , 1Kb , 1MB  - Read Operation
+1 1.175334 0.850822091
+1 1780.734131 0.000561566
+1 11816.605469 0.000084627
+Seq :For 1 thread with block size 1 Byte , 1Kb , 1MB  - Write Operation
+1 9.911520 0.100892700
+1 1894.038330 0.000527972
+1 3494.306885 0.000286180
+Rand :For 1 thread with block size 1 Byte , 1Kb , 1MB  - Write Operation
+1 0.573674 1.743150353
+1 642.951050 0.001555328
+1 7466.828125 0.000133926
+Seq :For 2 thread with block size 1 Byte , 1Kb , 1MB  - Read Operation
+2 15.073079 0.066344194
+2 2333.365234 0.000429263
+2 3228.792480 0.000321022
+Rand :For 2 thread with block size 1 Byte , 1Kb , 1MB  - Read Operation
+2 0.737017 1.356821299
+2 930.523193 0.001074664
+2 11362.876953 0.000088048
+Seq :For 2 thread with block size 1 Byte , 1Kb , 1MB  - Write Operation
+2 4.967985 0.201288879
+2 872.963562 0.001145853
+2 2032.982178 0.000496137
+Rand :For 2 thread with block size 1 Byte , 1Kb , 1MB  - Write Operation
+2 0.290242 3.445405006
+2 316.841980 0.003156455
+2 4380.382324 0.000228351
+
+
+
+
+OUTPUT
+
+
+
+Seq :For 1 thread with block size 1 Byte , 1Kb , 1MB  - Read Operation
+1 30.697687 0.032575745
+1 3906.999023 0.000255951
+1 5792.037598 0.000172651
+Rand :For 1 thread with block size 1 Byte , 1Kb , 1MB  - Read Operation
+1 1.477683 0.676735163
+1 1768.413818 0.000565479
+1 11709.391602 0.000085402
+Seq :For 1 thread with block size 1 Byte , 1Kb , 1MB  - Write Operation
+1 9.935300 0.100651212
+1 1901.313599 0.000525952
+1 3439.716309 0.000290722
+Rand :For 1 thread with block size 1 Byte , 1Kb , 1MB  - Write Operation
+1 0.600704 1.664714217
+1 645.405273 0.001549414
+1 7215.075684 0.000138599
+Seq :For 2 thread with block size 1 Byte , 1Kb , 1MB  - Read Operation
+2 15.068489 0.066363871
+2 2264.723633 0.000442102
+2 4607.118652 0.000253165
+Rand :For 2 thread with block size 1 Byte , 1Kb , 1MB  - Read Operation
+2 0.732848 1.364540100
+2 933.472290 0.001071271
+2 9136.922852 0.000128537
+Seq :For 2 thread with block size 1 Byte , 1Kb , 1MB  - Write Operation
+2 4.955900 0.201779723
+2 938.500366 0.001066367
+2 2267.313477 0.000441351
+Rand :For 2 thread with block size 1 Byte , 1Kb , 1MB  - Write Operation
+2 0.289555 3.453577042
+2 324.208557 0.003084451
+2 4710.000488 0.000214323
